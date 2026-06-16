@@ -1,4 +1,4 @@
-Prediksi Kelulusan Mahasiswa Menggunakan Algoritma Random Forest dengan Pendekatan CRISP-DM
+Prediksi Status Kelulusan Mahasiswa Berdasarkan Performa Akademik Menggunakan Algoritma Random Forest dengan Pendekatan CRISP-DM
 Project Overview
 
 Pendidikan merupakan salah satu faktor penting dalam pembangunan sumber daya manusia. Tingkat keberhasilan mahasiswa dalam menyelesaikan studi menjadi indikator penting bagi institusi pendidikan. Berbagai faktor seperti jam belajar, nilai sebelumnya, kualitas tidur, aktivitas ekstrakurikuler, dan intensitas latihan soal dapat memengaruhi performa akademik mahasiswa.
